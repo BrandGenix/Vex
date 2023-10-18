@@ -1,6 +1,16 @@
 ul.dev3-item:nth-child(1) > li:nth-child(1){display:none}
 div.dev3-main:nth-child(4) > div:nth-child(1) > nav:nth-child(1){justify-content: center}
 .dropdown-language{display:none}
+.categories-slide-show-mobile::before{
+display: inline-block;
+height: 32px;
+width: 32px;
+margin-left: 8px;
+float:left;
+content: "";
+background: url("https://i.imgur.com/aJMDkFc.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
 /*---------- هنا تبدأ الايقونات الخاصة بقائمة الهاتف ------------*/
 /* مجسمات العاب انيمي am 1*/
 ul.m-0:nth-child(2) > li:nth-child(1) > a:nth-child(1)::before{
