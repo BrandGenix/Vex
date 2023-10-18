@@ -1,0 +1,11 @@
+dropdown-language{display:none}
+
+div.owl-item:nth-child(3) > div:nth-child(1) > a:nth-child(1) > span:nth-child(2) {
+visibility: hidden;
+}
+div.owl-item:nth-child(3) > div:nth-child(1) > a:nth-child(1) > span:nth-child(2):after {
+  content: ' أوفرووتش 2 - OverWatch 2';
+  visibility: visible;
+  display: block;
+}
+
