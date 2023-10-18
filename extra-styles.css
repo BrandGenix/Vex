@@ -1,11 +1,54 @@
 .dropdown-language{display:none}
 
-li.main-cat > a::before, li.main-cat > ul > li > a::before,ul > li > ul > li > a::before{
+li.main-cat > a::before, li.main-cat > ul > li > a::before,ul > li > ul > li > a
+
+/* كمبيوتر pc */
+li.main-cat:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
 margin-left: 8px;
 content: "";
-background: url("https://i.imgur.com/tWhAkNN.png")no-repeat 0 0;
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كمبيوتر - ستيم*/
+li.main-cat:nth-child(2) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كمبيوتر - ستيم - شراء العاب*/
+li.main-cat:nth-child(2) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كمبيوتر - ستيم - شحن رصيد*/
+li.main-cat:nth-child(2) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كمبيوتر - ستيم - تعديل دول*/
+li.main-cat:nth-child(2) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
