@@ -1082,7 +1082,57 @@ content: "";
 background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
-/* أوفرووتش 2 - OverWatch 2 14*/
+/* ببجي نيو ستيت - PUBG NEW STATE 14*/
+li.position-relative:nth-child(14) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* شحن نقاط الشدات NC */
+li.main-cat:nth-child(14) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* شحن NC عن طريق البطاقات - Gift Cards */
+li.main-cat:nth-child(14) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* شحن NC عن طريق الدخول للحساب - Login Account */
+li.main-cat:nth-child(14) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* رفع رانك حساب ببجي نيو ستيت */
+li.main-cat:nth-child(14) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* أوفرووتش 2 - OverWatch 2 15*/
 li.position-relative:nth-child(15) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
