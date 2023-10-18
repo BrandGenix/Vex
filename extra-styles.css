@@ -1,8 +1,8 @@
+ul.dev3-item:nth-child(1) > li:nth-child(1){display:none}
+div.dev3-main:nth-child(4) > div:nth-child(1) > nav:nth-child(1){justify-content: center}
 .dropdown-language{display:none}
 
-li.main-cat > a::before, li.main-cat > ul > li > a::before,ul > li > ul > li > a
-
-/* كمبيوتر pc */
+/* كمبيوتر pc 1 */
 li.main-cat:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
@@ -50,5 +50,205 @@ width: 17px;
 margin-left: 8px;
 content: "";
 background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كمبيوتر - أوريجين*/
+li.main-cat:nth-child(2) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1):nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كمبيوتر - يو بلاي*/
+li.main-cat:nth-child(2) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كمبيوتر - بليزارد*/
+li.main-cat:nth-child(2) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كمبيوتر - أخرى*/
+li.main-cat:nth-child(2) > ul:nth-child(3) > li:nth-child(5) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن PSN 2*/
+li.main-cat:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - ألعاب*/
+li.main-cat:nth-child(3) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - ألعاب - بس 4*/
+ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - ألعاب - بس 5*/
+ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - بطاقات*/
+ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - بطاقات - سعودي*/
+ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - بطاقات - امريكي*/
+ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - بطاقات - بحريني*/
+ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - بطاقات - امارتي*/
+ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - بطاقات - قطري*/
+ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(5) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - بطاقات - عماني*/
+ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(6) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - بطاقات - كويتي*/
+ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(7) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - بطاقات - لبناني*/
+ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(8) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - بطاقات - بريطاني*/
+ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(9) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - بطاقات - كندي*/
+ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(10) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/MMsWXLh.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بلايستيشن - بطاقات - فرنسي*/
+ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(11) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
