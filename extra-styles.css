@@ -1,8 +1,18 @@
 ul.dev3-item:nth-child(1) > li:nth-child(1){display:none}
 div.dev3-main:nth-child(4) > div:nth-child(1) > nav:nth-child(1){justify-content: center}
 .dropdown-language{display:none}
-
-/* كمبيوتر pc 1 */
+/*---------- هنا تبدأ الايقونات الخاصة بقائمة الهاتف ------------*/
+/* مجسمات العاب انيمي am 1*/
+li.main-cat:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كمبيوتر pc 2*/
 li.main-cat:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
@@ -92,7 +102,7 @@ content: "";
 background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
-/* بلايستيشن PSN 2*/
+/* بلايستيشن PSN 3*/
 li.main-cat:nth-child(3) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
@@ -244,6 +254,256 @@ background-size: 100% 100%;
 }
 /* بلايستيشن - بطاقات - فرنسي*/
 ul.m-0:nth-child(2) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(11) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إكس بوكس - Xbox 4*/
+li.main-cat:nth-child(4) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* العاب إكس بوكس - Xbox Games */
+li.main-cat:nth-child(4) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراكات إكس بوكس - Xbox Subs */
+li.main-cat:nth-child(4) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراكات إكس بوكس عالمي - Xbox Subs Global */
+li.main-cat:nth-child(4) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراكات إكس بوكس عالمي - Xbox Subs Global */
+li.main-cat:nth-child(4) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات ستور - Xbox Gift Card */
+li.main-cat:nth-child(4) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* ستور إكس بوكس أمريكي- Xbox Balance US */
+li.main-cat:nth-child(4) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* ستور إكس بوكس كندي - Xbox Balance Canadian */
+li.main-cat:nth-child(4) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كول أوف ديوتي - Call Of Duty 5*/
+li.main-cat:nth-child(5) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كود موبايل - Call of Duty Mobile */
+li.main-cat:nth-child(5) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* شحن نقاط CP عن طريق الـID */
+li.main-cat:nth-child(5) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* شحن نقاط CP بالطريقة الرسمية ( السريعة ) */
+li.main-cat:nth-child(5) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* شحن نقاط CP بالطريقة الغير رسمية ( البطيئة ) */
+li.main-cat:nth-child(5) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* رفع رانك حساب كود موبايل */
+li.main-cat:nth-child(5) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كود وارزون لكل المنصات - Call Of Duty WarZone */
+li.main-cat:nth-child(5) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* سي بي كود وارزون لكل المنصات - Call Of Duty WarZone CP */
+li.main-cat:nth-child(5) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* رفع رانك حساب كود وارزون */
+li.main-cat:nth-child(5) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/*فيفا  24 - EA SPORTS FC 24 6*/
+li.main-cat:nth-child(6) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/*شراء Points فيفا*/
+li.main-cat:nth-child(6) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كوينز فيفا 24 - Coins EA SPORTS FC 24 */
+li.main-cat:nth-child(6) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كوينز فيفا24 للبلايستيشين - EA SPORTS FC 24 PSN */
+li.position-relative:nth-child(6) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كوينز فيفا24 للإكس بوكس - EA SPORTS FC 24 Xbox */
+li.position-relative:nth-child(6) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كوينز فيفا24 للكمبيوتر - EA SPORTS FC 24 PC */
+li.position-relative:nth-child(6) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* رفع رانك الفوت حساب فيفا */
+li.position-relative:nth-child(6) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/nwYtzKf.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* رفع رانك الديفيجن/رايفلز */
+li.position-relative:nth-child(6) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
