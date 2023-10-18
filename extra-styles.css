@@ -1192,68 +1192,8 @@ content: "";
 background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
-/* روكيت ليج - Rocket League 16*/
-li.position-relative:nth-child(16) > a:nth-child(1)::before{
-display: inline-block;
-height: 17px;
-width: 17px;
-margin-left: 8px;
-content: "";
-background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
-background-size: 100% 100%;
-}
-/* شراء Credit روكيت ليج */
-li.position-relative:nth-child(16) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
-display: inline-block;
-height: 17px;
-width: 17px;
-margin-left: 8px;
-content: "";
-background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
-background-size: 100% 100%;
-}
-/* رفع رانك حساب Rocket League */
-li.position-relative:nth-child(16) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(2)::before{
-display: inline-block;
-height: 17px;
-width: 17px;
-margin-left: 8px;
-content: "";
-background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
-background-size: 100% 100%;
-}
-/* رينبو 6 سيج - Rainbow six siege 17*/
-li.position-relative:nth-child(17) > a:nth-child(1)::before{
-display: inline-block;
-height: 17px;
-width: 17px;
-margin-left: 8px;
-content: "";
-background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
-background-size: 100% 100%;
-}
-/* شراء نقاط R6 */
-li.position-relative:nth-child(17) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
-display: inline-block;
-height: 17px;
-width: 17px;
-margin-left: 8px;
-content: "";
-background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
-background-size: 100% 100%;
-}
-/* رفع رانك حساب رينبو 6 سيج */
-li.position-relative:nth-child(17) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
-display: inline-block;
-height: 17px;
-width: 17px;
-margin-left: 8px;
-content: "";
-background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
-background-size: 100% 100%;
-}
-/* فري فاير - Free Fire 18*/
-li.position-relative:nth-child(18) > a:nth-child(1)::before{
+/* فري فاير - Free Fire 16*/
+li.main-cat:nth-child(16) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1263,7 +1203,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شراء جواهر Diamonds فري فاير */
-li.position-relative:nth-child(18) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li.position-relative:nth-child(16) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1273,7 +1213,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن جواهر عن طريق البطاقات - Gift cards */
-li.position-relative:nth-child(18) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li.position-relative:nth-child(16) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1283,7 +1223,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك حساب FreeFire */
-li.position-relative:nth-child(18) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li.position-relative:nth-child(16) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1293,7 +1233,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك حساب FreeFire */
-li.position-relative:nth-child(18) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li.position-relative:nth-child(16) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1302,8 +1242,908 @@ content: "";
 background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
-/* جواهر Clash of Clans 19*/
-li.position-relative:nth-child(19) > a:nth-child(1)::before{
+/* جواهر Clash of Clans 17*/
+li.main-cat:nth-child(17) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات Gift Cards 17*/
+li.main-cat:nth-child(17) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات شحن Noon */
+li.main-cat:nth-child(17) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات شحن نون KSA */
+li.main-cat:nth-child(17) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات شحن نون UAE */
+li.main-cat:nth-child(17) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات شحن Twitch */
+li.main-cat:nth-child(17) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات شحن Skype */
+li.main-cat:nth-child(17) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات شحن eBay */
+li.main-cat:nth-child(17) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات CrunchyRoll */
+li.main-cat:nth-child(17) > ul:nth-child(3) > li:nth-child(5) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات شحن Spotify */
+li.main-cat:nth-child(17) > ul:nth-child(3) > li:nth-child(6) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات شحن Amazon */
+li.list-sub-sub:nth-child(7) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* أمازون إماراتي - UAE */
+li.list-sub-sub:nth-child(7) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* أمازون أمريكي - USA */
+li.list-sub-sub:nth-child(7) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* أمازون بريطاني - UK */
+li.list-sub-sub:nth-child(7) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات Nintendo Switch */
+li.list-sub-sub:nth-child(8) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* نينتندو سويتش كندي */
+li.list-sub-sub:nth-child(8) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* نينتندو سويتش أمريكي */
+li.list-sub-sub:nth-child(8) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات شحن Blizzard */
+li.list-sub-sub:nth-child(9) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات بليزارد EU */
+li.list-sub-sub:nth-child(8) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات بليزارد USA */
+li.list-sub-sub:nth-child(8) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات Razer Gold */
+li.list-sub-sub:nth-child(9) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* ريزر جولد أمريكي */
+li.list-sub-sub:nth-child(10) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* ريزر جولد عالمي */
+li.list-sub-sub:nth-child(10) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات شحن Steam */
+li.list-sub-sub:nth-child(9) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات ستيم تركي - TRY */
+li.list-sub-sub:nth-child(11) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات ستيم ارجنتيني - ARS */
+li.list-sub-sub:nth-child(11) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات ستيم اماراتي - UAE */
+li.list-sub-sub:nth-child(11) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات ستيم كويتي - KW */
+li.list-sub-sub:nth-child(11) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات ستيم سعودي - KSA */
+li.list-sub-sub:nth-child(11) > ul:nth-child(3) > li:nth-child(5) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات ستيم امريكي - USA */
+li.list-sub-sub:nth-child(11) > ul:nth-child(3) > li:nth-child(6) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات شحن GooglePlay */
+li.list-sub-sub:nth-child(12) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* جوجل بلاي إماراتي - UAE */
+li.list-sub-sub:nth-child(12) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* جوجل بلاي بريطاني - UK */
+li.list-sub-sub:nth-child(12) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* جوجل بلاي ألماني - DE */
+li.list-sub-sub:nth-child(12) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* جوجل بلاي سعودي - KSA */
+li.list-sub-sub:nth-child(12) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* جوجل بلاي امريكي - USA */
+li.list-sub-sub:nth-child(12) > ul:nth-child(3) > li:nth-child(5) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بطاقات شحن iTunes */
+li.list-sub-sub:nth-child(12) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* ايتونز كندي - CAD */
+li.list-sub-sub:nth-child(12) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* ايتونز سعودي - KSA */
+li.list-sub-sub:nth-child(12) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* ايتونز امريكي - USA */
+li.list-sub-sub:nth-child(12) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراكات وخدمات منوعة a 18*/
+li.main-cat:nth-child(18) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* دسكورد - Discord */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* رفع مستوى الدسكورد */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* اشتراك نيترو للدسكورد */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* سيرفر بوست للدسكورد */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* اليوتيوب - Youtube */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراكات يوتيوب Premium */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* خدمات Youtube */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* خدمات Tiktok */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* خدمات Instagram */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* خدمات Telegram */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(5) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* خدمات X ( Twitter ) */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(6) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراك LinkedIn */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(7) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراكات Netflix */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(8) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* خدمات Twitch */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(9) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراك Spotify */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(10) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراك Shahid */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(11) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراك FaselHD */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(12) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* خدمات FaceBook */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(13) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* خدمات Threads */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(14) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* خدمات ClubHouse */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(15) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراك STC TV */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(16) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراك Amazon Prime */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(17) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراكات Crunchyroll */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(18) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/*إشتراك DisneyPlus */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(19) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراك BlueTV */
+li.main-cat:nth-child(18) > ul:nth-child(3) > li:nth-child(20) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراك StarzPlay */
+li.position-relative:nth-child(21) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراك Shudder */
+li.position-relative:nth-child(22) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراك Hulu */
+li.position-relative:nth-child(23) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراك HBO MAX */
+li.position-relative:nth-child(24) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراك TOD */
+li.position-relative:nth-child(25) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراك Anghami */
+li.position-relative:nth-child(26) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* إشتراك Deezer */
+li.position-relative:nth-child(27) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* برامج كمبيوتر - Programs */
+li.main-cat:nth-child(19) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* مفاتيح Office */
+li.main-cat:nth-child(19) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* مفاتيح Windows */
+li.main-cat:nth-child(19) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* أدوبي - Adobe */
+li.main-cat:nth-child(19) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* مفاتيح برامج Anti Virus */
+li.main-cat:nth-child(19) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* اوتوديسك - Autodesk */
+li.main-cat:nth-child(19) > ul:nth-child(3) > li:nth-child(5) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* برامج VPN */
+li.main-cat:nth-child(19) > ul:nth-child(3) > li:nth-child(6) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كانفا - Canva */
+li.main-cat:nth-child(19) > ul:nth-child(3) > li:nth-child(7) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* المزيد من التصنيفات */
+li.main-cat:nth-child(20) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* Rocket League */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* شراء Credit روكيت ليج */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* رفع رانك Rocket League */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* Rainbow six siege */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* شراء نقاط R6 */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* رفع رانك رينبو 6 سيج */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* شحن تيك توك كوينز */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* ماين كرافت MineCoins */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* جواهر Clash of Clans */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(5) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1313,7 +2153,77 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* جواهر Brawl Starz */
-li.position-relative:nth-child(20) > a:nth-child(1)::before{
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(6) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* جواهر Clash Royale */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(7) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* بوينت EA SPORTS FC 24 Mobile */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(8) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* جواهر Castle Clash */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(9) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* ليج اوف ليجيندز موبايل LOL Wild Rift */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(10) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* جواهر Mobile legends Bang Bang */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(11) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* جواهر Rise Of Kingdoms */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(12) > a:nth-child(1)::before{
+display: inline-block;
+height: 17px;
+width: 17px;
+margin-left: 8px;
+content: "";
+background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
+background-size: 100% 100%;
+}
+/* كاش 8 Ball Pool */
+li.main-cat:nth-child(20) > ul:nth-child(3) > li:nth-child(13) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
