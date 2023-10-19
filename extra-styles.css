@@ -475,7 +475,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* كوينز فيفا24 للبلايستيشين - EA SPORTS FC 24 PSN */
-li.position-relative:nth-child(6) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(6) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -485,7 +485,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* كوينز فيفا24 للإكس بوكس - EA SPORTS FC 24 Xbox */
-li.position-relative:nth-child(6) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(6) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -495,7 +495,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* كوينز فيفا24 للكمبيوتر - EA SPORTS FC 24 PC */
-li.position-relative:nth-child(6) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+li:nth-child(6) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -505,7 +505,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك الفوت حساب فيفا */
-li.position-relative:nth-child(6) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+li:nth-child(6) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -515,7 +515,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك الديفيجن رايفلز */
-li.position-relative:nth-child(6) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+li:nth-child(6) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -525,7 +525,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* فورتنايت - Fortnite 7*/
-li.position-relative:nth-child(7) > a:nth-child(1)::before{
+li:nth-child(7) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -535,7 +535,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن نقاط V-Bucks*/
-li.position-relative:nth-child(7) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(7) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -545,7 +545,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شراء حزم Fortnite*/
-li.position-relative:nth-child(7) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(7) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -555,7 +555,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك حساب فورتنات */
-li.position-relative:nth-child(7) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+li:nth-child(7) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -565,7 +565,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شراء حسابات فورتنايت */
-li.position-relative:nth-child(7) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+li:nth-child(7) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -645,7 +645,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* خدمات جراند لمنصة سوني5 - PSN5 */
-li.position-relative:nth-child(8) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+li:nth-child(8) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -655,7 +655,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن فلوس للبلايستيشن 5 - GTA V PS5 MONEY */
-li.position-relative:nth-child(8) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(8) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -665,7 +665,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع لفلات وفتح مهارات جراند سوني5 */
-li.position-relative:nth-child(8) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(8) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -675,7 +675,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* خدمات جراند لمنصة الإكس بوكس - XBOX */
-li.position-relative:nth-child(8) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+li:nth-child(8) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -685,7 +685,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن فلوس للإكس بوكس - GTA V XBOX MONEY */
-li.position-relative:nth-child(8) > ul:nth-child(3) > li:nth-child(4) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(8) > ul:nth-child(3) > li:nth-child(4) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -695,7 +695,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع لفلات وفتح مهارات جراند إكس بوكس */
-li.position-relative:nth-child(8) > ul:nth-child(3) > li:nth-child(4) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(8) > ul:nth-child(3) > li:nth-child(4) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -705,7 +705,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* ببجي موبايل - PUBG Mobile 9*/
-li.position-relative:nth-child(9) > a:nth-child(1)::before{
+li:nth-child(9) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -715,7 +715,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شراء نقاط UC */
-li.position-relative:nth-child(9) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(9) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -725,7 +725,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن نقاط UC عن طريق الآي دي - İD*/
-li.position-relative:nth-child(9) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(9) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -735,7 +735,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شراء نقاط UC عن طريق البطاقات - Gift Cards */
-li.position-relative:nth-child(9) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(9) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -745,7 +745,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن نقاط UC عن طريق الدخول للحساب - Login Account */
-li.position-relative:nth-child(9) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+li:nth-child(9) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -755,7 +755,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك حساب ببجي موبايل */
-li.position-relative:nth-child(9) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(9) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -765,7 +765,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع شعبية ببجي */
-li.position-relative:nth-child(9) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+li:nth-child(9) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -775,7 +775,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* ليج أوف ليجيندز - League Of Legends 10*/
-li.position-relative:nth-child(10) > a:nth-child(1)::before{
+li:nth-child(10) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -785,7 +785,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن نقاط RP بالبطاقات - Gift Cards */
-li.position-relative:nth-child(10) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(10) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -795,7 +795,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* بطاقات شحن RP لحسابات أمريكا USA Dollar */
-li.position-relative:nth-child(10) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(10) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -805,7 +805,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* بطاقات شحن RP لدول أوروبا والشرق الأوسط MENA GBP */
-li.position-relative:nth-child(10) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(10) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -815,7 +815,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* بطاقات شحن RP لدول أوروبا والشرق الأوسط MENA EURO */
-li.position-relative:nth-child(10) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+li:nth-child(10) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -825,7 +825,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شراء نقاط RP عن طريق الهدايا - Gift to Account */
-li.position-relative:nth-child(10) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(10) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -835,7 +835,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شراء نقاط RP لحسابات EUW */
-li.position-relative:nth-child(10) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(10) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -845,7 +845,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شراء نقاط RP لحسابات EUN + EUE */
-li.position-relative:nth-child(10) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(10) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -855,7 +855,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شراء نقاط RP لحسابات TR */
-li.position-relative:nth-child(10) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+li:nth-child(10) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -865,7 +865,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك حساب ليج أوف ليجيندز */
-li.position-relative:nth-child(10) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+li:nth-child(10) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -875,7 +875,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك الحساب في سيرفر EUW */
-li.position-relative:nth-child(10) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(10) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -885,7 +885,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك الحساب في سيرفر EUN + EUE */
-li.position-relative:nth-child(10) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(10) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -895,7 +895,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك الحساب في سيرفر TR */
-li.position-relative:nth-child(10) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+li:nth-child(10) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -905,7 +905,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك الحساب في سيرفر NA */
-li.position-relative:nth-child(10) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+li:nth-child(10) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -915,7 +915,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك الحساب في سيرفر NA */
-li.position-relative:nth-child(10) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+li:nth-child(10) > ul:nth-child(3) > li:nth-child(3) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -925,7 +925,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* فالورانت - Valorant 11*/
-li.position-relative:nth-child(11) > a:nth-child(1)::before{
+li:nth-child(11) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -935,7 +935,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن نقاط RP عن طريق البطاقات - Gift Cards */
-li.position-relative:nth-child(11) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(11) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -945,7 +945,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* بطاقات شحن RP لدول أوروبا والشرق الأوسط MENA EURO */
-li.position-relative:nth-child(11) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(11) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -955,7 +955,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* بطاقات شحن RP لدول أوروبا والشرق الأوسط MENA GBP */
-li.position-relative:nth-child(11) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(11) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -965,7 +965,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* بطاقات شحن RP لحسابات أمريكا USA Dollar */
-li.position-relative:nth-child(11) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+li:nth-child(11) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -975,7 +975,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن نقاط RP عن طريق دخول الحساب - Login Account */
-li.position-relative:nth-child(11) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(11) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -985,7 +985,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك حساب فالورانت */
-li.position-relative:nth-child(11) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+li:nth-child(11) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -995,7 +995,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* جنشن امباكت - Genshin impact 12*/
-li.position-relative:nth-child(12) > a:nth-child(1)::before{
+li:nth-child(12) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1005,7 +1005,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن كرستالات جنشن امباكت */
-li.position-relative:nth-child(12) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(12) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1015,7 +1015,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن كرستالات عن طريق الـİD آمن 100% */
-li.position-relative:nth-child(12) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(12) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1025,7 +1025,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن كرستالات عن طريق الدخول للحساب آمن100% */
-li.position-relative:nth-child(12) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(12) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1035,7 +1035,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شراء حسابات جنشن امباكت */
-li.position-relative:nth-child(12) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(12) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1045,7 +1045,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* روبلوكس - Roblox 13*/
-li.position-relative:nth-child(13) > a:nth-child(1)::before{
+li:nth-child(13) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1055,7 +1055,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن نقاط روبوكس - Robux */
-li.position-relative:nth-child(13) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(13) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1065,7 +1065,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن روبلوكس عن طريق البطاقات - Roblox Gift Cards */
-li.position-relative:nth-child(13) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(13) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1075,7 +1075,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن روبلوكس عن طريق الحساب - Login Account */
-li.position-relative:nth-child(13) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(13) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1085,7 +1085,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شراء MM2 */
-li.position-relative:nth-child(13) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(13) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1095,7 +1095,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* ببجي نيو ستيت - PUBG NEW STATE 14*/
-li.position-relative:nth-child(14) > a:nth-child(1)::before{
+li:nth-child(14) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1145,7 +1145,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* أوفرووتش 2 - OverWatch 2 15*/
-li.position-relative:nth-child(15) > a:nth-child(1)::before{
+li:nth-child(15) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1155,7 +1155,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن كوينز OverWatch 2 */
-li.position-relative:nth-child(15) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(15) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1165,7 +1165,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن توكنز OverWatch 2 */
-li.position-relative:nth-child(15) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(15) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1175,7 +1175,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شراء حسابات OverWatch 2 */
-li.position-relative:nth-child(15) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
+li:nth-child(15) > ul:nth-child(3) > li:nth-child(3) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1185,7 +1185,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شراء سكنات OverWatch 2 */
-li.position-relative:nth-child(15) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
+li:nth-child(15) > ul:nth-child(3) > li:nth-child(4) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1195,7 +1195,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك حساب أوفرووتش 2 */
-li.position-relative:nth-child(15) > ul:nth-child(3) > li:nth-child(5) > a:nth-child(1)::before{
+li:nth-child(15) > ul:nth-child(3) > li:nth-child(5) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1215,7 +1215,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شراء جواهر Diamonds فري فاير */
-li.position-relative:nth-child(16) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(16) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1225,7 +1225,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* شحن جواهر عن طريق البطاقات - Gift cards */
-li.position-relative:nth-child(16) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
+li:nth-child(16) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(1) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1235,7 +1235,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك حساب FreeFire */
-li.position-relative:nth-child(16) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(16) > ul:nth-child(3) > li:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1245,7 +1245,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* رفع رانك حساب FreeFire */
-li.position-relative:nth-child(16) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
+li:nth-child(16) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1915,7 +1915,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* إشتراك StarzPlay */
-li.position-relative:nth-child(21) > a:nth-child(1)::before{
+li:nth-child(21) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1925,7 +1925,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* إشتراك Shudder */
-li.position-relative:nth-child(22) > a:nth-child(1)::before{
+li:nth-child(22) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1935,7 +1935,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* إشتراك Hulu */
-li.position-relative:nth-child(23) > a:nth-child(1)::before{
+li:nth-child(23) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1945,7 +1945,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* إشتراك HBO MAX */
-li.position-relative:nth-child(24) > a:nth-child(1)::before{
+li:nth-child(24) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1955,7 +1955,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* إشتراك TOD */
-li.position-relative:nth-child(25) > a:nth-child(1)::before{
+li:nth-child(25) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1965,7 +1965,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* إشتراك Anghami */
-li.position-relative:nth-child(26) > a:nth-child(1)::before{
+li:nth-child(26) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
@@ -1975,7 +1975,7 @@ background: url("https://i.imgur.com/W224bGe.png")no-repeat 0 0;
 background-size: 100% 100%;
 }
 /* إشتراك Deezer */
-li.position-relative:nth-child(27) > a:nth-child(1)::before{
+li:nth-child(27) > a:nth-child(1)::before{
 display: inline-block;
 height: 17px;
 width: 17px;
